@@ -1,3 +1,6 @@
+/**
+ * link:http://blog.csdn.net/heyangbin/article/details/3202435
+ */
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>

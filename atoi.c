@@ -33,4 +33,5 @@ int main()
 	int after = 0;
 	after = my_atoi(ch);
 	printf("%d",after);
+	return 0;
 }

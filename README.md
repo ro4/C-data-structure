@@ -23,7 +23,7 @@ Blog: thefrp.sinaapp.com
 
 
 ----
-*pointer_linklist.c  
+*pointer_linklist.c*
 Description: C语言指针实现链表  
 Author: FAN  
 Date: 2014/4/19  
@@ -31,3 +31,5 @@ Blog: thefrp.sinaapp.com
 ps: 在vs2012正常运行  
 
 ----
+*atoi.c* 
+字符转数字
